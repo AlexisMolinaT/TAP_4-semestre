@@ -10,7 +10,7 @@ import javax.swing.JTextField;
         
 /**
  *
- * @author Alexis Mol.
+ * @author Alexis M.
  */
 public class EjemploEventoFocus extends JFrame{
     JLabel lbl_nombre, lbl_apellido, lbl_edad;
